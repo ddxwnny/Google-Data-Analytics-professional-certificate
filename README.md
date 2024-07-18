@@ -1,5 +1,5 @@
 # Google-Data-Analytics-professional-certificate
-This repository contains all the Rstudio codes, case study reference materials, data sets, images and presentation. This is a project within the Google Data Analytics specialisation on Coursera. 
+This repository contains all the Rstudio codes, case study reference materials, data sets, images and presentation. This is a project within the Google Data Analytics specialisation on Coursera. This is my first attempt on a solo project after completing an online course! It might not be my best attempt, but it is a milestone and starting point for me! Thank you for visiting!
 
 ## Introduction to the project 
 Cyclistic is a fictional bike-share company. Apart from the convenience of having more than 5800 bicycles and 600 docking stations, they also offer flexible pricing options for riders of different needs. Single-ride and full-day passes are considered casual users while annual passes are considered Cyclistic annual members. Inclusivity are also taken into consideration. Cyclistic offers reclining bikes, hand tricycles and cargo bikes altho only 8% of the riders choose this option. 
